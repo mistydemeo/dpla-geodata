@@ -1,4 +1,5 @@
-= DPLA geodata
+DPLA geodata
+============
 
 A simple offline copy of all current DPLA records containing geodata. Contains 36752 records!
 
